@@ -1,0 +1,13 @@
+[2025-11-14 22:25:14] Warehouse started
+[2025-11-14 22:25:14] Initialized 3 sections
+[2025-11-14 22:25:27] Robot added: 3
+[2025-11-14 22:25:33] === Starting Sequential Processing ===
+[2025-11-14 22:25:33] Sequential processing completed in 1ms
+[2025-11-14 22:26:23] Robot R001 started task: 5f935d05
+[2025-11-14 22:26:24] Robot R001 completed task: 5f935d05
+[2025-11-14 22:26:24] Task added: 8d595326 - LOADING
+[2025-11-14 22:26:24] Task added: 875c54bb - LOADING
+[2025-11-14 22:26:24] Task added: 23faf0fe - UNLOADING
+[2025-11-14 22:26:24] Task added: f3956008 - MOVING
+[2025-11-14 22:26:24] Robot R001 started task: f3956008
+[2025-11-14 22:26:25] Robot R001 completed task: f3956008
