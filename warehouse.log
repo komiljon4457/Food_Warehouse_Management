@@ -11,3 +11,16 @@
 [2025-11-14 22:26:24] Task added: f3956008 - MOVING
 [2025-11-14 22:26:24] Robot R001 started task: f3956008
 [2025-11-14 22:26:25] Robot R001 completed task: f3956008
+[2025-11-14 22:45:29] Warehouse started
+[2025-11-14 22:45:29] Initialized 3 sections
+[2025-11-14 23:07:10] Warehouse started
+[2025-11-14 23:07:10] Initialized 3 sections
+[2025-11-14 23:07:19] Robot added: 2
+[2025-11-14 23:07:25] Robot added: 3
+[2025-11-14 23:07:32] Task added: be7a033a - UNLOADING
+[2025-11-14 23:08:17] === Starting Sequential Processing ===
+[2025-11-14 23:08:17] Robot 2 started task: be7a033a
+[2025-11-14 23:08:18] Robot 2 completed task: be7a033a
+[2025-11-14 23:08:18] Sequential processing completed in 671ms
+[2025-11-14 23:08:21] === Starting Parallel Processing ===
+[2025-11-14 23:08:21] Parallel processing completed in 1ms
